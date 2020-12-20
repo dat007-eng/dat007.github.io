@@ -86,60 +86,60 @@
 <p>b)	Health care planning, practice and education</p>
 <p>AR can be a helpful tool for the medical field. It helps the doctor to train before doing a surgery making facsimile a surgery. AR can give much important information to the doctor without see directly inside the patient body. It simulates inside the patient body base on the real data image of that body. It also uses in medical training such as simulating ultrasound guide needle placement.</p>
 
-c)	Flight training and military
-AR can make a flight path in the sky to help new pilot land an airplane using a flight simulator.  In the military, Tactical AR uses with night vision in the helmet which helps soldier their exact location and the coordinate of the allied and enemy. It also calculates the distance from the solider to their enemy to improve the accuracy of their fire. Therefore, it helps the solider’s battlefield. Synetic training environment (STE) help train soldier more immersive than shooting at 2D cardboard model such as more physically and mentally stressing. 
-d)	Navigation
-AR show the direction of the position which user want to go base on real environment.  It displays destination direction, meter, weather, road condition and some possible thing appear in their path. It will display on your monitor or your deivces.
-2.	Accurate 3D using the virtual and real object
-A.	Architecture
-The building project can be visualized by AR because it generates the image of the building and superimposes onto a real-life property. AR software can also render an animated 3D of their 2D drawing. Therefore, architect can calculate the building’s structure to fit with the property. 
-B.	Marketing
-AR can provide client and customer with some interactive experience by simulating online product which appears on customer real-environment through their screen device. Customer points a smartphone or any other devices have a camera at anywhere you want to put the product and a 3D produce will appear on your screen.
-Tools and technologies:
-Software and tool:
-•	Augogram: a computer makes AR base on generating AR.
+<p>c)	Flight training and military</p>
+<p>AR can make a flight path in the sky to help new pilot land an airplane using a flight simulator.  In the military, Tactical AR uses with night vision in the helmet which helps soldier their exact location and the coordinate of the allied and enemy. It also calculates the distance from the solider to their enemy to improve the accuracy of their fire. Therefore, it helps the solider’s battlefield. Synetic training environment (STE) help train soldier more immersive than shooting at 2D cardboard model such as more physically and mentally stressing.</p> 
+<p>d)	Navigation</p>
+<p>AR show the direction of the position which user want to go base on real environment.  It displays destination direction, meter, weather, road condition and some possible thing appear in their path. It will display on your monitor or your deivces.</p>
+<p>2.	Accurate 3D using the virtual and real object</p>
+<p>A.	Architecture</p>
+<p>The building project can be visualized by AR because it generates the image of the building and superimposes onto a real-life property. AR software can also render an animated 3D of their 2D drawing. Therefore, architect can calculate the building’s structure to fit with the property.</p> 
+<p>B.	Marketing</p>
+<p>AR can provide client and customer with some interactive experience by simulating online product which appears on customer real-environment through their screen device. Customer points a smartphone or any other devices have a camera at anywhere you want to put the product and a 3D produce will appear on your screen.</p>
+<p>Tools and technologies:</p>
+<p>Software and tool:</p>
+<p>•	Augogram: a computer makes AR base on generating AR.
 •	Augography:  creates augogram by science and software practice.
 •	Platform: is the operation which fit with the device use AR
 •	Engine: can change, power, and render some kind of data into content
 •	Framework: can predefine code which help develop quicker
-•	Software Development Kit: is a tool can making or support some new function to the AR(AR code, MaxST, AR tool kit, and Kudan)
-Hardware:
-	Glasses of AR: it can show any information on the road or recognize coordinate align or enemy in the military.
+•	Software Development Kit: is a tool can making or support some new function to the AR(AR code, MaxST, AR tool kit, and Kudan)</p>
+<p>Hardware:</p>
+<p>	Glasses of AR: it can show any information on the road or recognize coordinate align or enemy in the military.
 	Camera:
 	Depth Sensor: calculate the depth and distance of the object.
 	MagnetoMeter: is compass that can know the direction of object
 	Gyroscope: know the angle and position of the device
-	Proximity Sensor: measure the distance of object
-Skill require:
-Skill:
-1)	Augmented reality SDK skill:
-i.	AR code
+	Proximity Sensor: measure the distance of object</p>
+<p>Skill require:</p>
+<p>Skill:</p>
+<p>1)	Augmented reality SDK skill:</p>
+<p>i.	AR code
 ii.	MaxST
-iii.	Kudan
-2)	Programming language skill
-I.	C++
+iii.	Kudan</p>
+<p>2)	Programming language skill</p>
+<p>I.	C++
 II.	C
 III.	Java
-IV.	Python
-3)	3D gaming Engine
-I.	MAYA tool
+IV.	Python</p>
+<p>3)	3D gaming Engine</p>
+<p>I.	MAYA tool
 II.	Unity tool 
-III.	Unreal engine
-4)	Command over UI/UI:
-Is command over the user interface and user experience UI/XI
-5)	Graphic designing skill:
-I.	MS visual studio code
+III.	Unreal engine</p>
+<p>4)	Command over UI/UI:</p>
+<p>Is command over the user interface and user experience UI/XI</p>
+<p>5)	Graphic designing skill:</p>
+<p>I.	MS visual studio code
 II.	Ms HoloLens
-III.	AR code
-6)	Networking skill
-7)	Problem-solving skill
-8)	Devices can run the AR software(phone, glasses, and computer)
-Outcome:
-•	The AR market can worth 198 billion dollars in 2025 
-•	The AR software can be installed at 2.5 billion devices by 2023
-•	There are 216 billion AR users in the world by 2025
-•	 It creates a new method of training in many fields such as health care, flight training, and architecture. It can reduce the risk of training in medical by using directly surgery on the animal body. Training pilot will be more quality by using AR flight simulator. An architect can make a structure of building more carefully by using 3D AR animation.
-•	In the military, it improves the quality of training battlefield by using Synetic training environment to simulate a fake battlefield to plan the tactical more effective. It reduces the number of dead soldiers in war because the soldiers are equipped with a Tactical AR helmet which shows a lot of useful information to take advantage of the fight.
+III.	AR code</p>
+<p>6)	Networking skill</p>
+<p>7)	Problem-solving skill</p>
+<p>8)	Devices can run the AR software(phone, glasses, and computer)</p>
+<p>Outcome:</p>
+<p>•	The AR market can worth 198 billion dollars in 2025 </p>
+<p>•	The AR software can be installed at 2.5 billion devices by 2023</p>
+<p>•	There are 216 billion AR users in the world by 2025</p>
+<p>•	 It creates a new method of training in many fields such as health care, flight training, and architecture. It can reduce the risk of training in medical by using directly surgery on the animal body. Training pilot will be more quality by using AR flight simulator. An architect can make a structure of building more carefully by using 3D AR animation.</p>
+<p>•	In the military, it improves the quality of training battlefield by using Synetic training environment to simulate a fake battlefield to plan the tactical more effective. It reduces the number of dead soldiers in war because the soldiers are equipped with a Tactical AR helmet which shows a lot of useful information to take advantage of the fight.</p>
 
 Reference:
 AR definition and features:
@@ -167,14 +167,14 @@ https://financesonline.com/augmented-reality-statistics/#:~:text=There%20are%202
                   <span class="tm-title-small">(NOW AND 3 YEARS LATE)</span>
                 </h3>
                 <p class="mb-0">
-                  AI is intelligence controlled by computer.  Any device can take action by its decision to achieve its goal is controlled by AI. AI also controls the robot. AI has created many projects such as chatbot, automatic vehicle, and machine learning. We are now in the technology era 4.0 which rely on AI and robot. In this era, we can see everywhere is the technology which runs many jobs or work. This era people rely on machine or technology to do many things in their life.
+                 <p> AI is intelligence controlled by computer.  Any device can take action by its decision to achieve its goal is controlled by AI. AI also controls the robot. AI has created many projects such as chatbot, automatic vehicle, and machine learning. We are now in the technology era 4.0 which rely on AI and robot. In this era, we can see everywhere is the technology which runs many jobs or work. This era people rely on machine or technology to do many things in their life.
 AR was affected by AI especially machine learning because it helps computer perform a task just like a human word. AI uses machine learning to learn and improve the data of the real world and process it to the image of AR software. 
 The robot uses AR information to do real action to achieve the purpose of human. It also uses AI to do its action. 
 AI and robot can run a production line in a factory. AI and robot also impact to the military. For example, in the military, they use the robot to disable a C4 or any explosive device. Furthermore, they also AI plan which can fly by itself to do some dangerous mission like drop bomb or spy a dangerous area. 
 Soon, People can be able to make a housekeeper robot or an AI house which can do all your housework by the robot. In the military, they can invent soldier robots to server human purpose.
 AI and Robot improve the quality of human life. Its can make the production be more productive by a robot production line in the factory. Its replace much manual work which can reduce the cost of salary for the worker. AI and robot can help people reduce the time spent on housework by using robot housework. In the military, it can provide a soldier’s battlefield with a lot of advantage and bring more safety to a soldier's life. Ai can run an autonomous vehicle which brings more convenience to people‘s life. 
-In my daily life, I use AI to manage my schedule by using AI Siri on the iPhone. Siri always reminds me when I have an important event which I already set up before. Siri also answers my question in my daily life such as question relating to the algorithm, location, and history. My mom uses a robot to clean the floor which helps her not spend a lot of time on housework.
-Reference:
+In my daily life, I use AI to manage my schedule by using AI Siri on the iPhone. Siri always reminds me when I have an important event which I already set up before. Siri also answers my question in my daily life such as question relating to the algorithm, location, and history. My mom uses a robot to clean the floor which helps her not spend a lot of time on housework.</p>
+<p>Reference:</p>
 wikipedia :
 https://en.wikipedia.org/wiki/Artificial_intelligence#Applications
                 </p>
